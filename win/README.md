@@ -6,7 +6,7 @@
 - WSL
   - [Enable it in Windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
   - Install [Windows Terminal](https://github.com/Microsoft/Terminal)
-
+  - [Disable that annoying beep](https://stackoverflow.com/a/36726662/1392034) - add `set bell-style none` to `/etc/inputrc`
 - Add to `.ssh/config`
 
 ```
