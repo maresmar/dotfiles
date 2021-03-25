@@ -36,3 +36,9 @@ else
     start_agent;
 fi
 ```
+
+- Install missing packages
+
+```
+sudo zypper in bash-completion vim-data
+```
