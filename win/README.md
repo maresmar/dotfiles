@@ -41,4 +41,6 @@ fi
 
 ```
 sudo zypper in bash-completion vim-data
+sudo zypper in -f coreutils # fix man ls missing
+sudo mandb # update man pages
 ```
